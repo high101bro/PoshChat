@@ -1,12 +1,9 @@
-PoshChat
+PoshChat - Integrated into PoSh-EasyWin!
 ========
-PoShChat was integrated into my PoSh-EasyWin project!
-
 I added a few extra goodies to help manage communications and also added encryption!
 
 Below is from the original creator...
 ========
-
 PoshChat V.1.1
 
 This release of PoshChat includes two files:
