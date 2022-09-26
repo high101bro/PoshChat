@@ -1,3 +1,6 @@
+PoShChat was integrated into my PoSh-EasyWin project. I added a few extra goodies to help manage communications and also added encryption!
+Below is from the original creator...
+
 PoshChat
 ========
 PoshChat V.1.1
