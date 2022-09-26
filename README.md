@@ -6,6 +6,7 @@ I added a few extra goodies to help manage communications and also added encrypt
 
 Below is from the original creator...
 
+========
 PoshChat V.1.1
 
 This release of PoshChat includes two files:
